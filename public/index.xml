@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpsAutoAI - Automate Your Business Operations on OpsAutoAI</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in OpsAutoAI - Automate Your Business Operations on OpsAutoAI</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h2 id=&#34;ai-powered-automation-solutions&#34;&gt;AI-Powered Automation Solutions&lt;/h2&gt;&#xA;&lt;p&gt;OpsAutoAI offers comprehensive automation services designed to eliminate manual work across every department of your business.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;email--communication-automation&#34;&gt;Email &amp;amp; Communication Automation&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Smart Email Scheduling&lt;/strong&gt;&lt;br&gt;&#xA;Our AI analyzes recipient availability, time zones, and response patterns to schedule emails at optimal times. Increase open rates by 40% and reduce back-and-forth by 70%.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Automated Email Responses&lt;/strong&gt;&lt;br&gt;&#xA;Handle routine inquiries instantly with context-aware AI responses. Escalate complex issues to humans automatically.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intelligent Email Routing&lt;/strong&gt;&lt;br&gt;&#xA;Automatically categorize, prioritize, and route incoming emails to the right team members based on content and urgency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;transforming-business-operations-through-ai&#34;&gt;Transforming Business Operations Through AI&lt;/h2&gt;&#xA;&lt;p&gt;OpsAutoAI was founded in 2020 with a simple mission: eliminate tedious manual work so businesses can focus on innovation and growth. Today, we&amp;rsquo;re the leading provider of AI-powered operational automation solutions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-story&#34;&gt;Our Story&lt;/h3&gt;&#xA;&lt;p&gt;We started when our founders, frustrated by spending 60% of their workweek on repetitive tasks like email scheduling, HR paperwork, and data entry, decided there had to be a better way. They built their first automation tool to schedule team meetings intelligently—and saved 10 hours per week instantly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch-with-opsautoai&#34;&gt;Get In Touch With OpsAutoAI&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;d love to hear from you! Whether you have questions about our automation solutions, need technical support, or want to discuss custom implementations, our team is here to help.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sales Inquiries&lt;/strong&gt;&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:sales@opsautoai.com&#34;&gt;sales@opsautoai.com&lt;/a&gt;&lt;br&gt;&#xA;Phone: +1 (555) 123-4567&lt;br&gt;&#xA;Schedule a demo: &lt;a href=&#34;https://calendly.com/opsautoai&#34;&gt;Book a Call&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Customer Support&lt;/strong&gt;&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:support@opsautoai.com&#34;&gt;support@opsautoai.com&lt;/a&gt;&lt;br&gt;&#xA;Phone: +1 (555) 123-4568&lt;br&gt;&#xA;Available: Monday - Friday, 9 AM - 6 PM EST&lt;br&gt;&#xA;24/7 support for Enterprise customers&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Careers</title>
+      <link>http://localhost:1313/apply/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apply/</guid>
+      <description>&lt;h2 id=&#34;join-the-future-of-work-automation&#34;&gt;Join the Future of Work Automation&lt;/h2&gt;&#xA;&lt;p&gt;At OpsAutoAI, we&amp;rsquo;re building the technology that will define how businesses operate in the AI era. If you&amp;rsquo;re passionate about solving complex problems, love automation, and want to make a real impact, we want you on our team.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;why-work-at-opsautoai&#34;&gt;Why Work at OpsAutoAI?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;We&amp;rsquo;re Growing Fast&lt;/strong&gt;&lt;br&gt;&#xA;From 10 employees in 2020 to 150+ today, we&amp;rsquo;re scaling rapidly while maintaining our startup culture and innovation speed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

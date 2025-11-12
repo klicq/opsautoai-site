@@ -1,0 +1,14 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'OpsAutoAI'
+theme = 'ananke'
+
+[params]
+  description = "AI-powered automation solutions for modern businesses"
+  site_logo = "/images/logo.png"
+  favicon = "/images/logo.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
