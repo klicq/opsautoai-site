@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'baseURL = 'https://eloquent-longma-088d06.netlify.app/'
 languageCode = 'en-us'
 title = 'OpsAutoAI'
 theme = 'ananke'
