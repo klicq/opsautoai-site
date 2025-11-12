@@ -16,7 +16,7 @@ At OpsAutoAI, we're building the technology that will define how businesses oper
 ### Why Work at OpsAutoAI?
 
 **We're Growing Fast**  
-From 10 employees in 2020 to 150+ today, we're scaling rapidly while maintaining our startup culture and innovation speed.
+ We're scaling rapidly while maintaining our startup culture and innovation speed.
 
 **Meaningful Work**  
 Your code and ideas directly impact how thousands of businesses operate. See your work in action helping real companies save time and money.
@@ -146,7 +146,7 @@ We're hiring across multiple teams:
 Click the button below to fill out our application form. Upload your resume in PDF format and tell us why you're excited about OpsAutoAI.
 
 <div style="margin: 50px 0; text-align: center;">
-  <a href="YOUR_GOOGLE_FORM_LINK_HERE" 
+  <a href="https://forms.gle/21Tu3rUBqVmexD558" 
      target="_blank"
      style="display: inline-block; 
             background: #0066cc; 
